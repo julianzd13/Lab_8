@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab Inten</string>
+    <string name="API_KEY">a5b8c00476b0974b91ab780966dec771</string>
+    <string name="titulo_de_cupon">Titulo de Cupon</string>
+    <string name="descripcion_de_la_oferta">Descripcion de la oferta</string>
+    <string name="valor_real_de_descuento">Valor real de descuento</string>
+    <string name="fecha_de_finalizacion_de_la_oferta">Fecha de finalizacion de la oferta</string>
+    <string name="tienda">Tienda</string>
+    <string name="categorias">Categorias</string>
+
+</resources>
